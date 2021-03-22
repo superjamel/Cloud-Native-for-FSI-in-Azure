@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+This is a repo that is managed by [@Superjamel](https://www.github.com/superjamel), but open to contributions. Thank you for visting the page about ** Cloud Native for FSI in Azure** there are a lot of resouces for Azure and getting you up and running across in Azure for your business goal.
 
-You can use the [editor on GitHub](https://github.com/superjamel/Cloud-Native-for-FSI-in-Azure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Application Modernization during the Migration to Azure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [The BIG Diagram with links](/modernize)
+- [.NET Portability Analyzer](https://docs.microsoft.com/dotnet/standard/analyzers/portability-analyzer)
+- [App Service Migration Assistant](https://appmigration.microsoft.com/)
+- [Strategic Migration Assessment and Readiness Tool](https://docs.microsoft.com/assessments/?mode=pre-assessment&session=local)
+- [Developer Velocity Self-Assessment](https://developervelocityassessment.com/)
 
-### Markdown
+## Azure Kubernetes Service
+- 2020.10.23 - [Azure Kubernetes Service, Azure Red Hat OpenShift, OpenShift Container Platform - Purchasing Models](https://youtu.be/2KJdA9Su82c)
+- 2020.07.17 - [Designing a Secure Cloud-Native Architecture using Kubernetes on Azure](https://youtu.be/fZlw1tfik-A)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Azure Redhat Openshift
+- 2020.10.23 - [Azure Kubernetes Service, Azure Red Hat OpenShift, OpenShift Container Platform - Purchasing Models](https://youtu.be/2KJdA9Su82c)
+- 2020.09.28 - [Hybrid Networking in Azure Red Hat OpenShift](https://www.youtube.com/watch?v=G4VCzeu7K9k)
+- 2020.05.15 - [Azure Red Hat OpenShift - Connecting to Azure Active Directory](https://www.youtube.com/watch?v=uqTHphjkolM)
+- 2020.04.01 - [Azure Red Hat OpenShift 4.3 - Initial Deployment](https://www.youtube.com/watch?v=r6eZuEDmofs)
+- 2020.04.01 - [Sysdig Platform + Azure Red Hat OpenShift 4.3](https://www.youtube.com/watch?v=RL5JaEDTKYs)
 
-```markdown
-Syntax highlighted code block
+## Azure Integration Services
+- 2017.11.16 - [Azure Service Bus in the Enterprise with Clemens Vasters](https://www.youtube.com/watch?v=8oWyEkTlQic)
+ 
+## Serverless
 
-# Header 1
-## Header 2
-### Header 3
+## Java Spring cloud
+- 2020.09.01 - [How to use the Spring framework to access Azure Storage](https://youtu.be/d4SfosPWz8s)
+- 2020.09.01 - [How to use the Spring framework to access Azure Service Bus](https://youtu.be/3zoDqgjjT6E)
+- 2020.09.01 - [How to use Spring and Initializr with Maven and Azure Cosmos DB](https://youtu.be/IWQboyBohEI)
+- 2020.09.01 - [How to leverage the Spring framework with Azure SQL Database](https://youtu.be/RG6UqPJdqIs)
 
-- Bulleted
-- List
+## Azure SQL PAAS
+- 2017.11.09 - [Enabling Azure SQL Database Auto-Tuning at Scale for Microsoft IT](https://www.youtube.com/watch?v=hmYL5wyJnfA)
+ 
+## Cosmos DB
+- 2020.02.05 - [Microsoft Ready 2020 - Measure and choose the right RU/s for your Azure Cosmos DB workload](https://youtu.be/r0uFsPrBoIU)
+- 2020.02.05 - [Microsoft Ready 2020 - Partitioning in Azure Cosmos DB](https://youtu.be/B3nkidWMy_M)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superjamel/Cloud-Native-for-FSI-in-Azure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Azure DevOps
+- 2018.10.18 - [Moving thousands of employees and projects from TFS to Azure DevOps](https://www.youtube.com/watch?v=YXdrkNtFG0A)
+- 2017.11.09 - [Office Online - From Physical Servers to Automating Azure ARM](https://www.youtube.com/watch?v=5UstGhMMfYs) 

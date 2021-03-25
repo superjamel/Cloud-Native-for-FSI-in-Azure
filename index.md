@@ -1,4 +1,4 @@
-![alt text](https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg "")
+![alt text](https://azurecomcdn.azureedge.net/cvt-3396dc5885a3b4d42c2929fa7013f94fb95231a7719a5401b2760f203994f16d/images/page/overview/cloudnative/most-out-of-cloud.svg "Cloud Native")
 
 This is a repo that is managed by [@Superjamel](https://www.github.com/superjamel), but open to contributions. Thank you for visting the page about ** Cloud Native for FSI in Azure ** there are a lot of resouces for Azure and getting you up and running across in Azure for your business goal.
 

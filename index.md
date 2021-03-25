@@ -11,7 +11,7 @@ Skilling is everything, sign-up now!
 | :------------- | :----------: | -----------: |
 |  .Net Modernization in a Day | 8 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/230721/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512084)   |
 | Cloud Native in a Day  | 13 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/223747/157-GQE-382?wt.mc_id=AID3024819_QSG_EML_512264) |
-| .Net Modernization in a Day  | 20 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/227030/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512087) \|
+| .Net Modernization in a Day  | 20 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/227030/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512087) |
 
 ## Improve customer relations with Apps
 - Ignite 2021 - [Accelerating digital customer engagement with Azure Communication Services](https://myignite.microsoft.com/sessions/5685db58-004f-4d85-a6ed-1a8860c6a708)

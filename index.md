@@ -1,3 +1,5 @@
+![alt text](https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg "")
+
 This is a repo that is managed by [@Superjamel](https://www.github.com/superjamel), but open to contributions. Thank you for visting the page about ** Cloud Native for FSI in Azure ** there are a lot of resouces for Azure and getting you up and running across in Azure for your business goal.
 
 ## Your industry

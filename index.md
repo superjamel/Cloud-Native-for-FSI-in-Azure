@@ -14,10 +14,14 @@ Skilling is everything, sign-up now!
 |  .Net Modernization in a Day | 8 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/230721/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512084)   |
 | Cloud Native in a Day  | 13 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/223747/157-GQE-382?wt.mc_id=AID3024819_QSG_EML_512264) |
 | .Net Modernization in a Day  | 20 April 2021 | [Link](https://mktoevents.com/Microsoft+Event/227030/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512087) |
+| .Net Modernization in a Day  | 11 May 2021 | [Link](https://mktoevents.com/Microsoft+Event/223241/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512090) |
+| Cloud Native in a Day  | 12 May 2021 | [Link](https://mktoevents.com/Microsoft+Event/223241/157-GQE-382?wt.mc_id=AID3024818_QSG_EML_512090) |
 
 ## Improve customer relations with Apps
-- Ignite 2021 - [Accelerating digital customer engagement with Azure Communication Services](https://myignite.microsoft.com/sessions/5685db58-004f-4d85-a6ed-1a8860c6a708)
+- 2021.03.24 - [Operationalizing Contact Center efficiency with AI](https://devblogs.microsoft.com/startups/operationalizing-contact-center-efficiency-with-ai/)
+-  Ignite 2021 - [Accelerating digital customer engagement with Azure Communication Services](https://myignite.microsoft.com/sessions/5685db58-004f-4d85-a6ed-1a8860c6a708)
 - Ignite 2021 - [Key lessons from digital leaders on software excellence for 2021 and beyond](https://azure.microsoft.com/en-us/blog/developer-velocity-key-lessons-from-digital-leaders-on-software-excellence-for-2021-and-beyond/)
+
 
 ## 24/7 Azure Cloud Native learning
 - 24/7 - [Cloud Native](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_id=academic-19991-cxa&ocid=minibanner)
@@ -59,6 +63,11 @@ Skilling is everything, sign-up now!
 ## Cosmos DB
 - 2020.02.05 - [Microsoft Ready 2020 - Measure and choose the right RU/s for your Azure Cosmos DB workload](https://youtu.be/r0uFsPrBoIU)
 - 2020.02.05 - [Microsoft Ready 2020 - Partitioning in Azure Cosmos DB](https://youtu.be/B3nkidWMy_M)
+
+## GitHub Enterprise
+- 2021.03.24 - [One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/)
+- 2021.03.23 - [Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/)
+- 2021.03.15 - [Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/)
 
 ## Azure DevOps
 - 2018.10.18 - [Moving thousands of employees and projects from TFS to Azure DevOps](https://www.youtube.com/watch?v=YXdrkNtFG0A)
